@@ -27,6 +27,47 @@ O projeto foi desenvolvido utilizando conceitos de metodologias ágeis, com orga
 
 ---
 
+## 📋 Requisitos do Sistema – Luminatech
+
+### 🔹 Requisitos Funcionais
+
+#### 👤 Usuário (Aluno)
+- RF01: O sistema deve permitir que o usuário realize cadastro.  
+- RF02: O sistema deve permitir que o usuário realize login.  
+- RF03: O sistema deve permitir a recuperação de senha.  
+- RF04: O sistema deve permitir acessar cursos.  
+- RF05: O sistema deve permitir acessar conteúdos.  
+- RF06: O sistema deve permitir acessar níveis.  
+- RF07: O sistema deve permitir acessar trilhas de aprendizagem.  
+- RF08: O sistema deve permitir realizar atividades.  
+- RF09: O sistema deve permitir acompanhar o progresso.  
+- RF10: O sistema deve permitir gerar certificado.  
+- RF11: O sistema deve permitir editar dados do usuário.  
+- RF12: O sistema deve permitir consultar dados.  
+
+#### 👨‍🏫 Professor
+- RF13: O sistema deve permitir criar cursos.  
+- RF14: O sistema deve permitir postar atividades.  
+- RF15: O sistema deve permitir editar conteúdos.  
+- RF16: O sistema deve permitir acompanhar o desempenho dos alunos.  
+
+#### 🛠️ Administrador (Admin)
+- RF17: O sistema deve permitir configurar níveis.  
+- RF18: O sistema deve permitir controlar permissões de usuários.  
+
+---
+
+### 🔹 Requisitos Não Funcionais
+
+- RNF01: O sistema deve ser responsivo, funcionando em computadores, tablets e smartphones.  
+- RNF02: O sistema deve possuir interface intuitiva (UX/UI amigável).  
+- RNF03: O sistema deve garantir a segurança dos dados dos usuários.  
+- RNF04: O sistema deve permitir autenticação segura (login e senha).  
+- RNF05: O sistema deve ter bom desempenho no carregamento das páginas.  
+- RNF06: O sistema deve garantir disponibilidade e estabilidade.  
+
+---
+
 ## 🔐 DevSecOps
 Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e organização no desenvolvimento do projeto.
 
