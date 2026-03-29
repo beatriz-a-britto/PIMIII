@@ -1,7 +1,7 @@
 # 📘 Projeto Integrador Multidisciplinar (PIM)
 
 ## 📌 Descrição
-Este projeto tem como objetivo aplicar na prática os conhecimentos adquiridos ao longo do curso, integrando conceitos de desenvolvimento de software utilizando C#, banco de dados, UX/UI (Experiência e Interface do Usuário) e desenvolvimento web responsivo.
+Este projeto tem como objetivo aplicar na prática os conhecimentos adquiridos ao longo do curso, integrando conceitos de desenvolvimento de software utilizando C#, banco de dados, UX/UI (Experiência e Interface do Usuário)** e desenvolvimento web responsivo.
 
 O sistema desenvolvido busca atender às necessidades propostas no desafio, utilizando boas práticas de programação, organização e segurança.
 
@@ -27,49 +27,14 @@ O projeto foi desenvolvido utilizando conceitos de metodologias ágeis, com orga
 
 ---
 
-## 📋 Requisitos do Sistema – Luminatech
-
-### 🔹 Requisitos Funcionais
-
-#### 👤 Usuário (Aluno)
-- RF01: O sistema deve permitir que o usuário realize cadastro.  
-- RF02: O sistema deve permitir que o usuário realize login.  
-- RF03: O sistema deve permitir a recuperação de senha.  
-- RF04: O sistema deve permitir acessar cursos.  
-- RF05: O sistema deve permitir acessar conteúdos.  
-- RF06: O sistema deve permitir acessar níveis.  
-- RF07: O sistema deve permitir acessar trilhas de aprendizagem.  
-- RF08: O sistema deve permitir realizar atividades.  
-- RF09: O sistema deve permitir acompanhar o progresso.  
-- RF10: O sistema deve permitir gerar certificado.  
-- RF11: O sistema deve permitir editar dados do usuário.  
-- RF12: O sistema deve permitir consultar dados.  
-
-#### 👨‍🏫 Professor
-- RF13: O sistema deve permitir criar cursos.  
-- RF14: O sistema deve permitir postar atividades.  
-- RF15: O sistema deve permitir editar conteúdos.  
-- RF16: O sistema deve permitir acompanhar o desempenho dos alunos.  
-
-#### 🛠️ Administrador (Admin)
-- RF17: O sistema deve permitir configurar níveis.  
-- RF18: O sistema deve permitir controlar permissões de usuários.  
-
----
-
-### 🔹 Requisitos Não Funcionais
-
-- RNF01: O sistema deve ser responsivo, funcionando em computadores, tablets e smartphones.  
-- RNF02: O sistema deve possuir interface intuitiva (UX/UI amigável).  
-- RNF03: O sistema deve garantir a segurança dos dados dos usuários.  
-- RNF04: O sistema deve permitir autenticação segura (login e senha).  
-- RNF05: O sistema deve ter bom desempenho no carregamento das páginas.  
-- RNF06: O sistema deve garantir disponibilidade e estabilidade.  
-
----
-
 ## 🔐 DevSecOps
 Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e organização no desenvolvimento do projeto.
+
+---
+
+## 📅 Entrega
+- **Data de conclusão:** 26 de fevereiro de 2026  
+- **Horário limite:** 23:59  
 
 ---
 
@@ -82,6 +47,96 @@ Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e o
 | Jade Ferreira do Nascimento       | R7876C2   | Product Owner    | https://github.com/jadeferreirans        |
 | Luan Victor Costa de Carvalho     | R956288   | Desenvolvedor    | https://github.com/CarvalhoLC            |
 
+---
+
+## 📋 Requisitos do Sistema – Luminatech
+
+### 🔹 Requisitos Funcionais
+
+#### 👤 Usuário (Aluno)
+- RF01: O sistema deve permitir cadastro.  
+- RF02: O sistema deve permitir login.  
+- RF03: O sistema deve permitir recuperação de senha.  
+- RF04: O sistema deve permitir acessar cursos e conteúdos.  
+- RF05: O sistema deve permitir realizar atividades.  
+- RF06: O sistema deve permitir acompanhar progresso.  
+- RF07: O sistema deve permitir gerar certificado.  
+
+#### 👨‍🏫 Professor
+- RF08: O sistema deve permitir criar cursos.  
+- RF09: O sistema deve permitir postar atividades.  
+- RF10: O sistema deve permitir acompanhar desempenho dos alunos.  
+
+#### 🛠️ Administrador
+- RF11: O sistema deve permitir gerenciar usuários.  
+- RF12: O sistema deve permitir configurar permissões.  
+
+---
+
+### 🔹 Requisitos Não Funcionais
+- RNF01: O sistema deve ser responsivo.  
+- RNF02: O sistema deve possuir interface intuitiva (UX/UI).  
+- RNF03: O sistema deve garantir segurança dos dados.  
+- RNF04: O sistema deve ter bom desempenho.  
+
+---
+
+## 🔤 Acrônimos dos Integrantes
+- BAB: Beatriz Alves de Britto  
+- GJA: Guilherme José Afonso  
+- JFN: Jade Ferreira do Nascimento  
+- LVC: Luan Victor Costa  
+
+---
+
+## 📌 Product Backlog – Luminatech
+
+| ID   | Tarefa                                      | Prioridade | Resp. | Status   |
+|------|---------------------------------------------|------------|-------|----------|
+| PB01 | Criar tela de login                         | Alta       | JFN   | Pendente |
+| PB02 | Cadastro de usuário                         | Alta       | BAB   | Pendente |
+| PB03 | Recuperação de senha                        | Alta       | GJA   | Pendente |
+| PB04 | Estrutura inicial do sistema                | Alta       | LVC   | Pendente |
+| PB05 | Sistema de cursos                           | Alta       | JFN   | Pendente |
+| PB06 | Trilhas de aprendizagem                     | Média      | BAB   | Pendente |
+| PB07 | Sistema de atividades                       | Alta       | GJA   | Pendente |
+| PB08 | Área do professor                           | Média      | LVC   | Pendente |
+
+---
+
+## 🚀 Sprint Planning
+
+### 📅 Sprint 1
+| ID   | Tarefa                | Resp. | Status   |
+|------|----------------------|-------|----------|
+| SP01 | Tela de login        | JFN   | Pendente |
+| SP02 | Cadastro de usuário  | BAB   | Pendente |
+| SP03 | Recuperação de senha | GJA   | Pendente |
+| SP04 | Estrutura do sistema | LVC   | Pendente |
+
+---
+
+### 📅 Sprint 2
+| ID   | Tarefa                    | Resp. | Status   |
+|------|--------------------------|-------|----------|
+| SP05 | Sistema de cursos        | JFN   | Pendente |
+| SP06 | Trilhas de aprendizagem  | BAB   | Pendente |
+| SP07 | Sistema de atividades    | GJA   | Pendente |
+| SP08 | Área do professor        | LVC   | Pendente |
+
+---
+
+### 📅 Sprint 3
+| ID   | Tarefa                      | Resp. | Status   |
+|------|----------------------------|-------|----------|
+| SP09 | Progresso do aluno         | JFN   | Pendente |
+| SP10 | Certificados               | BAB   | Pendente |
+| SP11 | Painel administrativo      | GJA   | Pendente |
+| SP12 | Responsividade             | LVC   | Pendente |
+
+---
+
+## 📂 Estrutura do Projeto
 ---
 
 ## 💡 Observações
