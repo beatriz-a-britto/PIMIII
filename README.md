@@ -32,12 +32,6 @@ Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e o
 
 ---
 
-## 📅 Entrega
-- **Data de conclusão:** 26 de fevereiro de 2026  
-- **Horário limite:** 23:59  
-
----
-
 ## 📊 Tabela DevSecOps - DevTime
 
 | Nome                              | RA        | Papel no Scrum   | Git Individual                           |
@@ -136,7 +130,11 @@ Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e o
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📁 Estrutura do Projeto
+
+- 📊 [DevSecOps](devsecops/README.md)
+- 📌 [Backlog](backlog/README.md)
+- 🚀 [Sprint Planning](sprint-planning/README.md)
 ---
 
 ## 💡 Observações
