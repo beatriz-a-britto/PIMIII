@@ -1,7 +1,7 @@
 # 📘 Projeto Integrador Multidisciplinar (PIM)
 
 ## 📌 Descrição
-Este projeto tem como objetivo aplicar na prática os conhecimentos adquiridos ao longo do curso, integrando conceitos de desenvolvimento de software utilizando C#, banco de dados, UX/UI (Experiência e Interface do Usuário)** e desenvolvimento web responsivo.
+Este projeto tem como objetivo aplicar na prática os conhecimentos adquiridos ao longo do curso, integrando conceitos de desenvolvimento de software utilizando C#, banco de dados, UX/UI (Experiência e Interface do Usuário) e desenvolvimento web responsivo.
 
 O sistema desenvolvido busca atender às necessidades propostas no desafio, utilizando boas práticas de programação, organização e segurança.
 
@@ -43,7 +43,7 @@ Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e o
 
 ---
 
-## 📋 Requisitos do Sistema – Luminatech
+## 📋 Requisitos do Sistema – LuminaTech
 
 ### 🔹 Requisitos Funcionais
 
@@ -83,7 +83,7 @@ Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e o
 
 ---
 
-## 📌 Product Backlog – Luminatech
+## 📌 Product Backlog – LuminaTech
 
 | ID   | Tarefa                                      | Prioridade | Resp. | Status   |
 |------|---------------------------------------------|------------|-------|----------|
@@ -130,8 +130,33 @@ Foram aplicados conceitos básicos de DevSecOps, garantindo maior segurança e o
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🗄️ Banco de Dados – LuminaTech
 
+O projeto utiliza um banco de dados desenvolvido no SQL Server, responsável por armazenar e gerenciar todas as informações do sistema.
+
+### 📁 Estrutura
+
+```bash
+database/
+ ┣ LuminaTech.sql
+ ┗ modelo.png
+```
+
+### ⚙️ Como executar o banco de dados
+
+1. Abra o SQL Server Management Studio (SSMS)
+2. Clique em **New Query (Nova Consulta)**
+3. Abra o arquivo `database/LuminaTech.sql`
+4. Execute o script clicando em **Execute ▶️**
+
+### 📊 Modelo do Banco de Dados
+
+![Modelo do Banco](database/modelo.png)
+
+---
+ ## 📂 Estrutura do Projeto
+
+- 🗄️ [Database](database/)
 - 📊 [DevSecOps](devsecops/README.md)
 - 📌 [Backlog](backlog/README.md)
 - 🚀 [Sprint Planning](sprint-planning/README.md)
